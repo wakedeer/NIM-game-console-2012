@@ -6,5 +6,5 @@ The goal of the game is to be the player to remove the last object.
 ***
 [Read more about NIM game](https://en.wikipedia.org/wiki/Nim)
 ***
-### h3 Licenses
+### Licenses
 # BSD licenses
