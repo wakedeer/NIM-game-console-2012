@@ -1,0 +1,4 @@
+﻿  src.cpp
+d:\guap\visualstudio\nim-game-console-2012\nim-game-console-2012\src.cpp(70): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  nim-game-console-2012.vcxproj -> D:\GUAP\VisualStudio\nim-game-console-2012\Debug\nim-game-console-2012.exe
+  nim-game-console-2012.vcxproj -> D:\GUAP\VisualStudio\nim-game-console-2012\Debug\nim-game-console-2012.pdb (Partial PDB)

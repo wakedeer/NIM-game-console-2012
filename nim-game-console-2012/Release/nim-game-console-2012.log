@@ -1,0 +1,7 @@
+﻿  src.cpp
+src.cpp(70): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Создание кода
+  Создание кода завершено
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  nim-game-console-2012.vcxproj -> D:\GUAP\VisualStudio\nim-game-console-2012\Release\nim-game-console-2012.exe
+  nim-game-console-2012.vcxproj -> D:\GUAP\VisualStudio\nim-game-console-2012\Release\nim-game-console-2012.pdb (Full PDB)
